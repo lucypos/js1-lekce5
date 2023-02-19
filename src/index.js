@@ -16,6 +16,7 @@ if (vek >= 65) {
     } else {
         document.body.innerHTML = 'Heslo je v pořádku.'
     }
+    
 
 } else {
     (vek < 65) 
